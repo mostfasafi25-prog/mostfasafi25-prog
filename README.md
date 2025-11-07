@@ -1,102 +1,6 @@
-👋 Hello, I'm [Mostafa]!
+👋 Hey there! I'm Mostafa
 🚀 Frontend Developer | React.js Specialist
-I'm a passionate Frontend Developer with expertise in building modern, responsive web applications using React.js and Material-UI. I love creating intuitive user interfaces and seamless user experiences.
-
-🛠️ Tech Stack & Skills
-Frontend Development:
-
-⚛️ React.js (Hooks, Context API, Redux)
-
-🎨 Material-UI (MUI) - Component Library
-
-💅 Styled Components & CSS-in-JS
-
-📱 Responsive Web Design
-
-🚀 Performance Optimization
-
-♿ Accessibility (a11y)
-
-Languages & Tools:
-
-🔷 JavaScript (ES6+)
-
-🌐 HTML5 & CSS3
-
-🔧 TypeScript
-
-📦 Package Managers (npm, yarn)
-
-🛠️ Build Tools (Webpack, Vite)
-
-🔄 Version Control (Git, GitHub)
-
-🌱 Currently Learning & Exploring
-Next.js for server-side rendering
-
-React Native for mobile development
-
-Advanced State Management patterns
-
-Testing with Jest and React Testing Library
-
-Progressive Web Apps (PWA)
-
-💼 Featured Projects
-🎯 [Project Name] - E-commerce Platform
-Tech: React.js, Material-UI, Context API, Stripe Integration
-
-Built responsive product catalog with advanced filtering
-
-Implemented shopping cart and checkout flow
-
-Optimized performance with code splitting and lazy loading
-
-📊 [Project Name] - Dashboard Analytics
-Tech: React.js, Material-UI, Chart.js, REST APIs
-
-Created interactive data visualization components
-
-Developed real-time data updating features
-
-Designed responsive layout for multiple screen sizes
-
-📈 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=mostfasafi25-prog&show_icons=true&theme=radical
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=mostfasafi25-prog&layout=compact&theme=radical
-
-🤝 Let's Collaborate
-I'm always open to collaborating on interesting projects, especially:
-
-🎨 UI/UX focused applications
-
-📱 Responsive web apps
-
-⚡ Performance-critical applications
-
-🌐 Open source React components
-
-📫 How to Reach Me
-💼 LinkedIn: [Your LinkedIn Profile]
-
-🐦 Twitter: [Your Twitter Handle]
-
-📧 Email: [your.email@domain.com]
-
-💻 Portfolio: [Your Portfolio Website]
-
-⚡ Fun Facts
-🎯 I'm obsessed with pixel-perfect designs
-
-🚀 I enjoy optimizing bundle sizes and load times
-
-🎨 I believe good design is as important as good code
-
-☕ Coffee + Code = Perfect Day
-
-⭐ "First, solve the problem. Then, write the code." - John Johnson
-
+<p>Welcome to my profile! </br> I'm Mostafa, a passionate Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197551.png" width="13"/> <b>Damascus, Syria</b>, specializing in building modern web applications using <b>React.js</b> and <b>Material-UI</b>. </p><h3>💻 Technologies I Code With</h3> <p> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /> <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" /> <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> </p><h3>🌟 Featured Projects</h3> <table> <thead align="center"> <tr border: none;> <td><b>🎁 Projects</b></td> <td><b>⭐ Stars</b></td> <td><b>📚 Forks</b></td> <td><b>🛎 Issues</b></td> <td><b>📬 Pull requests</b></td> </tr> </thead> <tbody> <tr> <td><a href="https://github.com/mostfasafi25-prog/react-ecommerce"><b>React E-commerce Platform</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/mostfasafi25-prog/react-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Forks" src="https://img.shields.io/github/forks/mostfasafi25-prog/react-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Issues" src="https://img.shields.io/github/issues/mostfasafi25-prog/react-ecommerce?style=flat-square&labelColor=343b41"/></td> <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mostfasafi25-prog/react-ecommerce?style=flat-square&labelColor=343b41"/></td> </tr> <tr> <td><a href="https://github.com/mostfasafi25-prog/mui-dashboard"><b>Material-UI Dashboard</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/mostfasafi25-prog/mui-dashboard?style=flat-square&labelColor=343b41"/></td> <td><img alt="Forks" src="https://img.shields.io/github/forks/mostfasafi25-prog/mui-dashboard?style=flat-square&labelColor=343b41"/></td> <td><img alt="Issues" src="https://img.shields.io/github/issues/mostfasafi25-prog/mui-dashboard?style=flat-square&labelColor=343b41"/></td> <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mostfasafi25-prog/mui-dashboard?style=flat-square&labelColor=343b41"/></td> </tr> <tr> <td><a href="https://github.com/mostfasafi25-prog/react-task-manager"><b>React Task Manager</b></a></td> <td><img alt="Stars" src="https://img.shields.io/github/stars/mostfasafi25-prog/react-task-manager?style=flat-square&labelColor=343b41"/></td> <td><img alt="Forks" src="https://img.shields.io/github/forks/mostfasafi25-prog/react-task-manager?style=flat-square&labelColor=343b41"/></td> <td><img alt="Issues" src="https://img.shields.io/github/issues/mostfasafi25-prog/react-task-manager?style=flat-square&labelColor=343b41"/></td> <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mostfasafi25-prog/react-task-manager?style=flat-square&labelColor=343b41"/></td> </tr> </tbody> </table><h3>📚 Latest Blog Posts</h3> <ul> <li><a href="#"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Mastering React Hooks: Best Practices</b></a><br/><i>Learn how to use React Hooks effectively in your projects</i></li> <li><a href="#"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Material-UI vs Styled Components</b></a><br/><i>A comprehensive comparison for your next project</i></li> <li><a href="#"><b>Building Responsive Layouts with CSS Grid</b></a><br/><i>Create modern, flexible layouts that work on all devices</i></li> </ul><h3>📊 GitHub Stats</h3> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mostfasafi25-prog&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostfasafi25-prog&layout=compact&theme=radical&hide_border=true" /> </p><h3>🌱 Currently Learning</h3> <p> • Next.js & Server-Side Rendering<br/> • React Native for Mobile Development<br/> • Advanced Performance Optimization<br/> • Testing with Jest & React Testing Library<br/> • GraphQL & Apollo Client </p><h3>🤝 Let's Collaborate</h3> <p>I'm always open to collaborating on interesting projects, especially:</p> <ul> <li>🎨 UI/UX focused applications</li> <li>📱 Responsive web apps</li> <li>⚡ Performance-critical applications</li> <li>🌐 Open source React components</li> </ul><h3>📫 How to Reach Me</h3> <p> <a href="https://github.com/mostfasafi25-prog" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:mostfasafi25@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p><h3>⚡ Fun Facts</h3> <ul> <li>🎯 I'm obsessed with pixel-perfect designs</li> <li>🚀 I enjoy optimizing bundle sizes and load times</li> <li>🎨 I believe good design is as important as good code</li> <li>☕ Coffee + Code = Perfect Day</li> </ul>
 <div align="center">
 🎯 Let's build something amazing together!
 https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -104,3 +8,4 @@ https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&lo
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 </div>
+<p align="center">⭐ <b>"First, solve the problem. Then, write the code."</b> - John Johnson</p> <p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/mostfasafi25-prog/mostfasafi25-prog?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/mostfasafi25-prog/mostfasafi25-prog?style=flat-square&labelColor=343b41"/></p>
